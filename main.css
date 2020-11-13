@@ -10,12 +10,29 @@ nav{
 nav ul li{
     display: inline-block;
     color: blue;
-    font-weight: bold;
+    font-weight: bolder;
     margin-right: 20px;
 
 }
 
 nav ul{
     text-align: right;
+}
+
+H1{
+    text-align: center;
+    background-color: lightblue;
+}
+
+
+form{
+background-color: cornflowerblue;
+font-weight: bold;
+font-size: larger;
+}
+
+fieldset{
+    font-weight: bolder;
+    
 }
 
